@@ -2,7 +2,7 @@
 
 [![Creative Commons](https://flat.badgen.net/badge/license/CC-BY-NC-4.0/orange)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-A simple Memory Usage widget for Ubersicht. using the colors from [Monokai Faded](https://dionmunk.com/projects/monokai-faded/). Based on [ubericht-memory-bar](https://github.com/cobyism/ubersicht-memory-bar).
+A simple Memory Usage widget for Übersicht using the colors from [Monokai Faded](https://dionmunk.com/projects/monokai-faded/). Based on [ubericht-memory-bar](https://github.com/cobyism/ubersicht-memory-bar).
 
 ## Screenshot
 
