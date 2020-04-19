@@ -11,8 +11,8 @@ A simple Memory Usage widget for [Übersicht](http://tracesof.net/uebersicht/) u
 ## Installation
 
 - Download the [repository](https://github.com/dionmunk/ubersicht-memory-usage/archive/master.zip) and extract it.
-- Place the `memory-usage.widget` folder in your Ubersicht extension folder.
-- Refresh Ubersicht.
+- Place the `memory-usage.widget` folder in your Übersicht extension folder.
+- Refresh Übersicht.
 
 ## License
 
